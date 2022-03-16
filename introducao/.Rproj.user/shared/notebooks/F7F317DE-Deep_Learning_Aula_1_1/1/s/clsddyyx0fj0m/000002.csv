@@ -1,0 +1,5 @@
+"0","EPOCHS = 100"
+"0","HIDDEN_NEURONS = 40"
+"0","LEARNING_RATE = 0.01"
+"0",""
+"0","train_model <- trainModel(train_x, train_y, hidden_neurons = HIDDEN_NEURONS, num_iteration = EPOCHS, lr = LEARNING_RATE)"
